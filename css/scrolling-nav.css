@@ -176,7 +176,7 @@ body{
 }
 .container {
   padding-right: 15px;
-  padding-left: 90px;
+  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -190,9 +190,8 @@ p {
   font-weight: 300;
   text-align: justify;
 }
-style {
-  display: none;
-}
-div {
-  display: block;
+img {
+  vertical-align: middle;
+  border-style: none;
+  max-width: 100%;
 }
