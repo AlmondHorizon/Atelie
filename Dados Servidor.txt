@@ -1,0 +1,6 @@
+
+Host: ftp.rosarioatelie.com.br
+Usuário de FTP: rosarioatelie1
+Senha: R@fael123
+Pasta raiz: /home/rosarioatelie1/
+Porta: 21
