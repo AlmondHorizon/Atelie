@@ -195,7 +195,6 @@ img {
   border-style: none;
   max-width: 100%;
 }
-@media(min-width: 1024px){
 .carousel-item {
   height: 67vh;
   min-height: 300px;
@@ -204,6 +203,7 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: 100%;
-}
+  overflow: hidden;
+  margin: 0 auto;
 }
 

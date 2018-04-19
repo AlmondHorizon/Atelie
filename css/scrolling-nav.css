@@ -195,15 +195,16 @@ img {
   border-style: none;
   max-width: 100%;
 }
+
+@media only screen and (min-width:510px) {
 .carousel-item {
-  height: 67vh;
-  min-height: 300px;
+  height: 31vw;
+  min-height: 160px;
   background: no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: 100%;
-  overflow: hidden;
-  margin: 0 auto;
+   background-size: 100%;
+   }
 }
 
